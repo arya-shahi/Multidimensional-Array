@@ -52,3 +52,27 @@ int main(){
     }  
     return 0;
 }
+
+/*
+Enter number of rows of first matrix: 
+2
+Enter number of columns of first matrix:
+2
+Enter number of rows of second matrix:
+2
+Enter number of columns of second matrix:
+2
+Enter elements of the first matrix:
+Element at (1, 1): 1
+Element at (1, 2): 2
+Element at (2, 1): 3
+Element at (2, 2): 4
+Enter elements of the second matrix:
+Element at (1, 1): 1
+Element at (1, 2): 2
+Element at (2, 1): 3
+Element at (2, 2): 4
+The resultant matrix after addition is:
+2 4
+6 8
+*/
